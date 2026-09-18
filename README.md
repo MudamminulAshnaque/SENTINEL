@@ -1,9 +1,29 @@
-# sentinel
+# SENTINEL
 
-AI-powered customer support intelligence: classifies and prioritizes support
-conversations (Person 1), detects phishing / social-engineering attempts in
-the same messages (Person 2), and surfaces both in a live dashboard
-(Person 3).
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Enabled-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</div>
+
+SENTINEL is an AI-powered security and customer support intelligence platform that combines:
+
+- conversation classification and prioritization,
+- phishing and social-engineering detection,
+- a live operational dashboard for security and support teams.
+
+The platform is split into three coordinated layers:
+
+- Person 1: customer intelligence and conversation classification,
+- Person 2: phishing and social-engineering detection,
+- Person 3: frontend analytics and command-center experience.
+
+## Project Overview
+
+SENTINEL brings together Python-based intelligence services and a React/Vite dashboard to help teams detect high-risk customer interactions, surface suspicious patterns, and maintain a shared operational view of ongoing threats and support workflows.
 
 ## Layout
 
