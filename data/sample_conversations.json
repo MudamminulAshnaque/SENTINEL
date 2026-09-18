@@ -1,0 +1,992 @@
+[
+  {
+    "conversation_id": "CS-1001",
+    "raw_text": "I was charged twice for my subscription this month, please refund the duplicate charge.",
+    "timestamp": "2026-09-01T09:12:00Z"
+  },
+  {
+    "conversation_id": "CS-1002",
+    "raw_text": "I can't log into my account, it keeps saying my password is incorrect even after I reset it.",
+    "timestamp": "2026-09-01T10:03:00Z"
+  },
+  {
+    "conversation_id": "CS-1003",
+    "raw_text": "The blender I ordered arrived with a cracked jug, can I get a replacement?",
+    "timestamp": "2026-09-01T11:20:00Z"
+  },
+  {
+    "conversation_id": "CS-1004",
+    "raw_text": "My package shows as delivered but I never received it. Can you check with the courier?",
+    "timestamp": "2026-09-01T12:45:00Z"
+  },
+  {
+    "conversation_id": "CS-1005",
+    "raw_text": "I returned the shoes two weeks ago and still haven't received my refund.",
+    "timestamp": "2026-09-02T08:30:00Z"
+  },
+  {
+    "conversation_id": "CS-1006",
+    "raw_text": "I want to cancel my premium subscription, I no longer need it.",
+    "timestamp": "2026-09-02T09:10:00Z"
+  },
+  {
+    "conversation_id": "CS-1007",
+    "raw_text": "The app crashes every time I try to upload a photo, using the latest version on Android.",
+    "timestamp": "2026-09-02T13:00:00Z"
+  },
+  {
+    "conversation_id": "CS-1008",
+    "raw_text": "Your support agent was extremely rude to me on the phone yesterday, I want this escalated.",
+    "timestamp": "2026-09-02T14:22:00Z"
+  },
+  {
+    "conversation_id": "CS-1009",
+    "raw_text": "I was billed $49.99 but the website clearly listed the plan as $29.99.",
+    "timestamp": "2026-09-03T08:00:00Z"
+  },
+  {
+    "conversation_id": "CS-1010",
+    "raw_text": "Someone tried to log into my account from a location I don't recognize, is my account safe?",
+    "timestamp": "2026-09-03T09:15:00Z"
+  },
+  {
+    "conversation_id": "CS-1011",
+    "raw_text": "Thanks so much, the replacement part arrived today and everything works perfectly now!",
+    "timestamp": "2026-09-03T10:30:00Z"
+  },
+  {
+    "conversation_id": "CS-1012",
+    "raw_text": "My order has been stuck in 'processing' for 5 days with no update.",
+    "timestamp": "2026-09-03T11:45:00Z"
+  },
+  {
+    "conversation_id": "CS-1013",
+    "raw_text": "Can I get a refund for the concert tickets since the event was cancelled?",
+    "timestamp": "2026-09-04T08:20:00Z"
+  },
+  {
+    "conversation_id": "CS-1014",
+    "raw_text": "I'd like to downgrade from the annual plan to the monthly plan, how do I do that?",
+    "timestamp": "2026-09-04T09:40:00Z"
+  },
+  {
+    "conversation_id": "CS-1015",
+    "raw_text": "The website keeps timing out when I try to check out with items in my cart.",
+    "timestamp": "2026-09-04T10:55:00Z"
+  },
+  {
+    "conversation_id": "CS-1016",
+    "raw_text": "I've contacted support three times about my broken headphones and nobody has responded.",
+    "timestamp": "2026-09-04T12:00:00Z"
+  },
+  {
+    "conversation_id": "CS-1017",
+    "raw_text": "There's an unrecognized $15 charge on my statement, what is this for?",
+    "timestamp": "2026-09-05T08:10:00Z"
+  },
+  {
+    "conversation_id": "CS-1018",
+    "raw_text": "Just wanted to say the new checkout flow is so much smoother now, great job.",
+    "timestamp": "2026-09-05T09:00:00Z"
+  },
+  {
+    "conversation_id": "CS-1019",
+    "raw_text": "My two-factor authentication codes aren't arriving via SMS, I'm locked out.",
+    "timestamp": "2026-09-05T10:20:00Z"
+  },
+  {
+    "conversation_id": "CS-1020",
+    "raw_text": "I ordered a size medium but received a size small, can you send the correct size?",
+    "timestamp": "2026-09-05T11:30:00Z"
+  },
+  {
+    "conversation_id": "CS-2001",
+    "raw_text": "URGENT! Your account has been compromised. Click this link immediately to secure your account and enter your username, password and OTP. http://paypa1-security.example/login",
+    "timestamp": "2026-09-06T08:00:00Z"
+  },
+  {
+    "conversation_id": "CS-2002",
+    "raw_text": "Dear customer, your bank account will be suspended in 24 hours unless you verify your identity here: http://secure-bankverify.example/verify",
+    "timestamp": "2026-09-06T08:05:00Z"
+  },
+  {
+    "conversation_id": "CS-2003",
+    "raw_text": "You have won a $1000 gift card! Claim now before it expires: http://amaz0n-rewards.example/claim and enter your card details.",
+    "timestamp": "2026-09-06T08:10:00Z"
+  },
+  {
+    "conversation_id": "CS-2004",
+    "raw_text": "IT Support: Your password expires today. Login immediately at http://corp-login-portal.example to avoid lockout and enter your current password and OTP.",
+    "timestamp": "2026-09-06T08:15:00Z"
+  },
+  {
+    "conversation_id": "CS-2005",
+    "raw_text": "This is the IRS. You owe back taxes and must pay immediately via gift card or face arrest. Call this number now.",
+    "timestamp": "2026-09-06T08:20:00Z"
+  },
+  {
+    "conversation_id": "CS-2006",
+    "raw_text": "Your package could not be delivered due to unpaid customs fee. Pay $2.99 here to reschedule: http://fedex-redelivery.example/pay",
+    "timestamp": "2026-09-06T08:25:00Z"
+  },
+  {
+    "conversation_id": "CS-2007",
+    "raw_text": "Security alert: unusual sign-in detected. Confirm it was you by entering your password and the OTP we just sent: http://microsft-verify.example",
+    "timestamp": "2026-09-06T08:30:00Z"
+  },
+  {
+    "conversation_id": "CS-2008",
+    "raw_text": "Your subscription payment failed. Update your card details immediately at http://netfl1x-billing.example to avoid service interruption.",
+    "timestamp": "2026-09-06T08:35:00Z"
+  },
+  {
+    "conversation_id": "CS-3001",
+    "raw_text": "Message 1: My laptop order hasn't shipped after 10 days. Message 2 (3 days later): Still no update, this is unacceptable. Message 3 (2 days later): I've asked for a status update four times now with no response.",
+    "timestamp": "2026-09-07T09:00:00Z"
+  },
+  {
+    "conversation_id": "CS-3002",
+    "raw_text": "Message 1: My refund for the returned jacket hasn't shown up after 3 weeks. Message 2 (1 week later): Following up again, still nothing. Message 3 (5 days later): This is my third follow-up, I need this resolved.",
+    "timestamp": "2026-09-08T09:00:00Z"
+  },
+  {
+    "conversation_id": "CS-5001",
+    "raw_text": "I was charged twice for my order #10389, please refund the extra ₹999.",
+    "timestamp": "2026-09-10T08:00:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5002",
+    "raw_text": "I was charged twice for my order #11072, please refund the extra ₹1250.",
+    "timestamp": "2026-09-10T08:07:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5003",
+    "raw_text": "I was charged twice for my order #11456, please refund the extra ₹2500.",
+    "timestamp": "2026-09-10T08:14:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5004",
+    "raw_text": "My payment of ₹349 failed but the amount was deducted from my account.",
+    "timestamp": "2026-09-10T08:21:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5005",
+    "raw_text": "My payment of ₹1899 failed but the amount was deducted from my account.",
+    "timestamp": "2026-09-10T08:28:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5006",
+    "raw_text": "My payment of ₹749 failed but the amount was deducted from my account.",
+    "timestamp": "2026-09-10T08:35:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5007",
+    "raw_text": "I tried to pay for order #13521 three times and it keeps failing at checkout.",
+    "timestamp": "2026-09-10T08:42:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5008",
+    "raw_text": "I tried to pay for order #10245 three times and it keeps failing at checkout.",
+    "timestamp": "2026-09-10T08:49:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5009",
+    "raw_text": "I tried to pay for order #10389 three times and it keeps failing at checkout.",
+    "timestamp": "2026-09-10T08:56:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5010",
+    "raw_text": "The transaction for ₹1250 shows as pending for 3 days now, what's happening?",
+    "timestamp": "2026-09-10T09:03:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5011",
+    "raw_text": "The transaction for ₹2500 shows as pending for 3 days now, what's happening?",
+    "timestamp": "2026-09-10T09:10:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5012",
+    "raw_text": "The transaction for ₹349 shows as pending for 3 days now, what's happening?",
+    "timestamp": "2026-09-10T09:17:00Z",
+    "_expected_category": "Payment/Transaction Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5013",
+    "raw_text": "I can't log into my account, it keeps saying incorrect password even after reset.",
+    "timestamp": "2026-09-10T09:24:00Z",
+    "_expected_category": "Account/Login Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5014",
+    "raw_text": "My account got locked after I tried logging in from a new phone.",
+    "timestamp": "2026-09-10T09:31:00Z",
+    "_expected_category": "Account/Login Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5015",
+    "raw_text": "I'm not receiving the login OTP on my registered number, can you check?",
+    "timestamp": "2026-09-10T09:38:00Z",
+    "_expected_category": "Account/Login Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5016",
+    "raw_text": "It says my account doesn't exist anymore, but I've been using it for 2 years.",
+    "timestamp": "2026-09-10T09:45:00Z",
+    "_expected_category": "Account/Login Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5017",
+    "raw_text": "The product I received for order #10389 is damaged and doesn't turn on.",
+    "timestamp": "2026-09-10T09:52:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5018",
+    "raw_text": "The product I received for order #11072 is damaged and doesn't turn on.",
+    "timestamp": "2026-09-10T09:59:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5019",
+    "raw_text": "The product I received for order #11456 is damaged and doesn't turn on.",
+    "timestamp": "2026-09-10T10:06:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5020",
+    "raw_text": "I ordered a size M but received a size S, the item is unusable.",
+    "timestamp": "2026-09-10T10:13:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5021",
+    "raw_text": "The item's quality is much worse than shown in the pictures on the website.",
+    "timestamp": "2026-09-10T10:20:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5022",
+    "raw_text": "My order #13087 arrived missing half the parts described in the listing.",
+    "timestamp": "2026-09-10T10:27:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5023",
+    "raw_text": "My order #13521 arrived missing half the parts described in the listing.",
+    "timestamp": "2026-09-10T10:34:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5024",
+    "raw_text": "My order #10245 arrived missing half the parts described in the listing.",
+    "timestamp": "2026-09-10T10:41:00Z",
+    "_expected_category": "Product Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5025",
+    "raw_text": "My order #10389 was supposed to arrive 5 days ago and still shows 'in transit'.",
+    "timestamp": "2026-09-10T10:48:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5026",
+    "raw_text": "My order #11072 was supposed to arrive 5 days ago and still shows 'in transit'.",
+    "timestamp": "2026-09-10T10:55:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5027",
+    "raw_text": "My order #11456 was supposed to arrive 5 days ago and still shows 'in transit'.",
+    "timestamp": "2026-09-10T11:02:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5028",
+    "raw_text": "The delivery partner marked my order as delivered but I never received it.",
+    "timestamp": "2026-09-10T11:09:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5029",
+    "raw_text": "I need to change my delivery address for order #12290 before it ships.",
+    "timestamp": "2026-09-10T11:16:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5030",
+    "raw_text": "I need to change my delivery address for order #13087 before it ships.",
+    "timestamp": "2026-09-10T11:23:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5031",
+    "raw_text": "I need to change my delivery address for order #13521 before it ships.",
+    "timestamp": "2026-09-10T11:30:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5032",
+    "raw_text": "The package for order #10245 arrived completely crushed.",
+    "timestamp": "2026-09-10T11:37:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5033",
+    "raw_text": "The package for order #10389 arrived completely crushed.",
+    "timestamp": "2026-09-10T11:44:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5034",
+    "raw_text": "The package for order #11072 arrived completely crushed.",
+    "timestamp": "2026-09-10T11:51:00Z",
+    "_expected_category": "Delivery/Shipping Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5035",
+    "raw_text": "I returned my order #11456 two weeks ago and still haven't received my refund.",
+    "timestamp": "2026-09-10T11:58:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5036",
+    "raw_text": "I returned my order #12003 two weeks ago and still haven't received my refund.",
+    "timestamp": "2026-09-10T12:05:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5037",
+    "raw_text": "I returned my order #12290 two weeks ago and still haven't received my refund.",
+    "timestamp": "2026-09-10T12:12:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5038",
+    "raw_text": "Please process my refund of ₹749, the item didn't match the description.",
+    "timestamp": "2026-09-10T12:19:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5039",
+    "raw_text": "Please process my refund of ₹3200, the item didn't match the description.",
+    "timestamp": "2026-09-10T12:26:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5040",
+    "raw_text": "Please process my refund of ₹499, the item didn't match the description.",
+    "timestamp": "2026-09-10T12:33:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5041",
+    "raw_text": "I cancelled order #10389 but the refund hasn't reflected in my bank account yet.",
+    "timestamp": "2026-09-10T12:40:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5042",
+    "raw_text": "I cancelled order #11072 but the refund hasn't reflected in my bank account yet.",
+    "timestamp": "2026-09-10T12:47:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5043",
+    "raw_text": "I cancelled order #11456 but the refund hasn't reflected in my bank account yet.",
+    "timestamp": "2026-09-10T12:54:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5044",
+    "raw_text": "Refund for ₹349 was approved but I haven't received it after 10 business days.",
+    "timestamp": "2026-09-10T13:01:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5045",
+    "raw_text": "Refund for ₹1899 was approved but I haven't received it after 10 business days.",
+    "timestamp": "2026-09-10T13:08:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5046",
+    "raw_text": "Refund for ₹749 was approved but I haven't received it after 10 business days.",
+    "timestamp": "2026-09-10T13:15:00Z",
+    "_expected_category": "Refund Request",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5047",
+    "raw_text": "I want to cancel my subscription but the app doesn't show any option to do it.",
+    "timestamp": "2026-09-10T13:22:00Z",
+    "_expected_category": "Subscription Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5048",
+    "raw_text": "I was auto-renewed for another year even after I cancelled last month.",
+    "timestamp": "2026-09-10T13:29:00Z",
+    "_expected_category": "Subscription Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5049",
+    "raw_text": "My subscription benefits stopped working even though I'm still being charged.",
+    "timestamp": "2026-09-10T13:36:00Z",
+    "_expected_category": "Subscription Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5050",
+    "raw_text": "Can I downgrade my subscription plan without losing my saved data?",
+    "timestamp": "2026-09-10T13:43:00Z",
+    "_expected_category": "Subscription Issue",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5051",
+    "raw_text": "The app crashes every time I try to open the payments section.",
+    "timestamp": "2026-09-10T13:50:00Z",
+    "_expected_category": "Technical Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5052",
+    "raw_text": "I can't upload my documents, the upload button just doesn't respond.",
+    "timestamp": "2026-09-10T13:57:00Z",
+    "_expected_category": "Technical Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5053",
+    "raw_text": "The website is showing a blank page when I try to check my order history.",
+    "timestamp": "2026-09-10T14:04:00Z",
+    "_expected_category": "Technical Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5054",
+    "raw_text": "Push notifications stopped working after the last app update.",
+    "timestamp": "2026-09-10T14:11:00Z",
+    "_expected_category": "Technical Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5055",
+    "raw_text": "I have contacted support three times and nobody has solved my problem, this is extremely frustrating.",
+    "timestamp": "2026-09-10T14:18:00Z",
+    "_expected_category": "Service Quality",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5056",
+    "raw_text": "The support agent was rude and disconnected the call before resolving my issue.",
+    "timestamp": "2026-09-10T14:25:00Z",
+    "_expected_category": "Service Quality",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5057",
+    "raw_text": "I've been on hold for over 40 minutes just to ask a simple question.",
+    "timestamp": "2026-09-10T14:32:00Z",
+    "_expected_category": "Service Quality",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5058",
+    "raw_text": "Nobody followed up on my complaint from last week as promised.",
+    "timestamp": "2026-09-10T14:39:00Z",
+    "_expected_category": "Service Quality",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5059",
+    "raw_text": "My monthly bill shows an extra charge of ₹2500 that I don't recognize.",
+    "timestamp": "2026-09-10T14:46:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5060",
+    "raw_text": "My monthly bill shows an extra charge of ₹349 that I don't recognize.",
+    "timestamp": "2026-09-10T14:53:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5061",
+    "raw_text": "My monthly bill shows an extra charge of ₹1899 that I don't recognize.",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5062",
+    "raw_text": "I was billed for a plan I never signed up for.",
+    "timestamp": "2026-09-10T15:07:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5063",
+    "raw_text": "The invoice for order #13521 shows the wrong tax amount.",
+    "timestamp": "2026-09-10T15:14:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5064",
+    "raw_text": "The invoice for order #10245 shows the wrong tax amount.",
+    "timestamp": "2026-09-10T15:21:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5065",
+    "raw_text": "The invoice for order #10389 shows the wrong tax amount.",
+    "timestamp": "2026-09-10T15:28:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5066",
+    "raw_text": "Why was I charged ₹1250 twice in the same billing cycle?",
+    "timestamp": "2026-09-10T15:35:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5067",
+    "raw_text": "Why was I charged ₹2500 twice in the same billing cycle?",
+    "timestamp": "2026-09-10T15:42:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5068",
+    "raw_text": "Why was I charged ₹349 twice in the same billing cycle?",
+    "timestamp": "2026-09-10T15:49:00Z",
+    "_expected_category": "Billing Problem",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5069",
+    "raw_text": "Can you tell me your business hours for customer support?",
+    "timestamp": "2026-09-10T15:56:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5070",
+    "raw_text": "I just wanted to say thank you, your team resolved my issue quickly.",
+    "timestamp": "2026-09-10T16:03:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5071",
+    "raw_text": "Do you have a physical store in Kochi where I can visit?",
+    "timestamp": "2026-09-10T16:10:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5072",
+    "raw_text": "How do I update my registered email address on my profile?",
+    "timestamp": "2026-09-10T16:17:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5073",
+    "raw_text": "I noticed a login attempt from a device I don't recognize, please help me secure my account.",
+    "timestamp": "2026-09-10T16:24:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5074",
+    "raw_text": "Someone tried to reset my password without my permission, can you check my account activity?",
+    "timestamp": "2026-09-10T16:31:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5075",
+    "raw_text": "I think my card details may have been compromised, can you help me block my card?",
+    "timestamp": "2026-09-10T16:38:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5076",
+    "raw_text": "Can you tell me how to enable two-factor authentication on my account?",
+    "timestamp": "2026-09-10T16:45:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5077",
+    "raw_text": "Your order will be delivered today between 2pm and 5pm, please ensure someone is available.",
+    "timestamp": "2026-09-10T16:52:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5078",
+    "raw_text": "Reminder: your subscription renews tomorrow, let us know if you'd like to make changes.",
+    "timestamp": "2026-09-10T16:59:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5079",
+    "raw_text": "Your refund of ₹1250 has been processed and will reflect in your account within 3-5 business days.",
+    "timestamp": "2026-09-10T17:06:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5080",
+    "raw_text": "Your appointment with our service center is confirmed for tomorrow at 10 AM.",
+    "timestamp": "2026-09-10T17:13:00Z",
+    "_expected_category": "Other",
+    "_expected_sentiment": "Neutral",
+    "_expected_is_threat": "No"
+  },
+  {
+    "conversation_id": "CS-5081",
+    "raw_text": "URGENT! Your account has been compromised. Click this link immediately to secure your account and enter your username, password and OTP. http://paypa1-security.example/login",
+    "timestamp": "2026-09-10T17:20:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5082",
+    "raw_text": "Dear customer, your PAN card verification is pending. Update immediately at http://incometax-refund.example or your account will be permanently deleted",
+    "timestamp": "2026-09-10T17:27:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5083",
+    "raw_text": "Congratulations you have been selected! Claim your prize now at http://bit.ly/xyz123",
+    "timestamp": "2026-09-10T17:34:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5084",
+    "raw_text": "Your SBI account will be suspended within 24 hours. Verify your account at http://sbi-secure-verify.example/login and confirm your identity",
+    "timestamp": "2026-09-10T17:41:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5085",
+    "raw_text": "Dear user, unusual login detected on your Amazon account. Confirm your details at http://amaz0n-security.example immediately to avoid suspension",
+    "timestamp": "2026-09-10T17:48:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5086",
+    "raw_text": "This is the official IT support department. We need you to share your OTP to complete a mandatory security patch on your account.",
+    "timestamp": "2026-09-10T17:55:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5087",
+    "raw_text": "Your Netflix payment failed. Update your payment information at http://netfl1x-billing.example within 24 hours to avoid account closure.",
+    "timestamp": "2026-09-10T18:02:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5088",
+    "raw_text": "RBI Alert: Your bank account shows suspicious activity. Contact our security team at support@sbi-verify.example immediately.",
+    "timestamp": "2026-09-10T18:09:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5089",
+    "raw_text": "FINAL WARNING: Failure to comply will result in legal action. Verify your identity now at http://192.168.44.12/verify",
+    "timestamp": "2026-09-10T18:16:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5090",
+    "raw_text": "Your Flipkart order refund of ₹5000 is pending. Enter your card details and CVV at http://flipkart-refund.example to claim it.",
+    "timestamp": "2026-09-10T18:23:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5091",
+    "raw_text": "Dear customer, your electricity bill is overdue. Pay immediately at http://bit.ly/billpay99 to avoid disconnection within 24 hours.",
+    "timestamp": "2026-09-10T18:30:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5092",
+    "raw_text": "We are the cyber cell department investigating fraud on your account. Share the OTP sent to your phone to verify your identity.",
+    "timestamp": "2026-09-10T18:37:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5093",
+    "raw_text": "Your WhatsApp account will be deactivated. Verify by clicking http://whatsapp-verify.example and entering your registration code.",
+    "timestamp": "2026-09-10T18:44:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5094",
+    "raw_text": "Dear user, your Google account storage is full and unauthorized access was detected. Secure it now at http://g00gle-security.example",
+    "timestamp": "2026-09-10T18:51:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5095",
+    "raw_text": "Your Paytm KYC has expired. Update immediately at http://paytm-kyc-update.example or your wallet will be permanently blocked.",
+    "timestamp": "2026-09-10T18:58:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5096",
+    "raw_text": "Congratulations! Your number has won ₹25,00,000 in the online lottery. Claim your prize by sharing your bank details and OTP.",
+    "timestamp": "2026-09-10T19:05:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5097",
+    "raw_text": "Dear customer, your HDFC debit card is expiring. Renew instantly at http://hdfcbank-renew.example and confirm your PIN.",
+    "timestamp": "2026-09-10T19:12:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5098",
+    "raw_text": "Security Alert: Someone tried to access your account from Nigeria. Confirm it wasn't you at http://icici-secure.example immediately.",
+    "timestamp": "2026-09-10T19:19:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5099",
+    "raw_text": "Your Uber account has unusual activity. Verify your login credentials at http://uber-account-check.example within 24 hours.",
+    "timestamp": "2026-09-10T19:26:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5100",
+    "raw_text": "URGENT: Income tax department final notice. Avoid penalty by verifying your PAN and Aadhaar at http://incometax.gov.in-verify.example",
+    "timestamp": "2026-09-10T19:33:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5101",
+    "raw_text": "Your account will be permanently deleted due to policy violation unless you confirm your password within 24 hours at http://accnt-verify.example",
+    "timestamp": "2026-09-10T19:40:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5102",
+    "raw_text": "Dear customer, your Ola ride payment failed. Update your card details at http://bit.ly/olapay to avoid account suspension.",
+    "timestamp": "2026-09-10T19:47:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5103",
+    "raw_text": "This is your bank's official security department. We detected fraud and need your net banking password to reverse the transaction.",
+    "timestamp": "2026-09-10T19:54:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5104",
+    "raw_text": "Your Zomato wallet balance is under review due to suspicious activity, confirm your account at http://zomat0-secure.example",
+    "timestamp": "2026-09-10T20:01:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  },
+  {
+    "conversation_id": "CS-5105",
+    "raw_text": "Dear user, your UIDAI Aadhaar linking is incomplete. Complete verification immediately at http://uidai-link.example or face penalty.",
+    "timestamp": "2026-09-10T20:08:00Z",
+    "_expected_category": "Security Concern",
+    "_expected_sentiment": "Negative",
+    "_expected_is_threat": "Yes"
+  }
+]

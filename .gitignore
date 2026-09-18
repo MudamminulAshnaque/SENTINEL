@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Environment secrets
+.env
+
+# Node / frontend
+node_modules/
+dist/
+*.local
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Test / coverage
+.pytest_cache/
+.coverage

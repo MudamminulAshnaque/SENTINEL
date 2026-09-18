@@ -1,0 +1,106 @@
+conversation_id,raw_text,expected_category,expected_sentiment,expected_is_threat
+CS-10001,"I was charged twice for my order #10389, please refund the extra ₹999.",Payment/Transaction Issue,Negative,No
+CS-10002,"I was charged twice for my order #11072, please refund the extra ₹1250.",Payment/Transaction Issue,Negative,No
+CS-10003,"I was charged twice for my order #11456, please refund the extra ₹2500.",Payment/Transaction Issue,Negative,No
+CS-10004,My payment of ₹349 failed but the amount was deducted from my account.,Payment/Transaction Issue,Negative,No
+CS-10005,My payment of ₹1899 failed but the amount was deducted from my account.,Payment/Transaction Issue,Negative,No
+CS-10006,My payment of ₹749 failed but the amount was deducted from my account.,Payment/Transaction Issue,Negative,No
+CS-10007,I tried to pay for order #13521 three times and it keeps failing at checkout.,Payment/Transaction Issue,Negative,No
+CS-10008,I tried to pay for order #10245 three times and it keeps failing at checkout.,Payment/Transaction Issue,Negative,No
+CS-10009,I tried to pay for order #10389 three times and it keeps failing at checkout.,Payment/Transaction Issue,Negative,No
+CS-10010,"The transaction for ₹1250 shows as pending for 3 days now, what's happening?",Payment/Transaction Issue,Negative,No
+CS-10011,"The transaction for ₹2500 shows as pending for 3 days now, what's happening?",Payment/Transaction Issue,Negative,No
+CS-10012,"The transaction for ₹349 shows as pending for 3 days now, what's happening?",Payment/Transaction Issue,Negative,No
+CS-10013,"I can't log into my account, it keeps saying incorrect password even after reset.",Account/Login Problem,Negative,No
+CS-10014,My account got locked after I tried logging in from a new phone.,Account/Login Problem,Negative,No
+CS-10015,"I'm not receiving the login OTP on my registered number, can you check?",Account/Login Problem,Negative,No
+CS-10016,"It says my account doesn't exist anymore, but I've been using it for 2 years.",Account/Login Problem,Negative,No
+CS-10017,The product I received for order #10389 is damaged and doesn't turn on.,Product Issue,Negative,No
+CS-10018,The product I received for order #11072 is damaged and doesn't turn on.,Product Issue,Negative,No
+CS-10019,The product I received for order #11456 is damaged and doesn't turn on.,Product Issue,Negative,No
+CS-10020,"I ordered a size M but received a size S, the item is unusable.",Product Issue,Negative,No
+CS-10021,The item's quality is much worse than shown in the pictures on the website.,Product Issue,Negative,No
+CS-10022,My order #13087 arrived missing half the parts described in the listing.,Product Issue,Negative,No
+CS-10023,My order #13521 arrived missing half the parts described in the listing.,Product Issue,Negative,No
+CS-10024,My order #10245 arrived missing half the parts described in the listing.,Product Issue,Negative,No
+CS-10025,My order #10389 was supposed to arrive 5 days ago and still shows 'in transit'.,Delivery/Shipping Problem,Negative,No
+CS-10026,My order #11072 was supposed to arrive 5 days ago and still shows 'in transit'.,Delivery/Shipping Problem,Negative,No
+CS-10027,My order #11456 was supposed to arrive 5 days ago and still shows 'in transit'.,Delivery/Shipping Problem,Negative,No
+CS-10028,The delivery partner marked my order as delivered but I never received it.,Delivery/Shipping Problem,Negative,No
+CS-10029,I need to change my delivery address for order #12290 before it ships.,Delivery/Shipping Problem,Negative,No
+CS-10030,I need to change my delivery address for order #13087 before it ships.,Delivery/Shipping Problem,Negative,No
+CS-10031,I need to change my delivery address for order #13521 before it ships.,Delivery/Shipping Problem,Negative,No
+CS-10032,The package for order #10245 arrived completely crushed.,Delivery/Shipping Problem,Negative,No
+CS-10033,The package for order #10389 arrived completely crushed.,Delivery/Shipping Problem,Negative,No
+CS-10034,The package for order #11072 arrived completely crushed.,Delivery/Shipping Problem,Negative,No
+CS-10035,I returned my order #11456 two weeks ago and still haven't received my refund.,Refund Request,Negative,No
+CS-10036,I returned my order #12003 two weeks ago and still haven't received my refund.,Refund Request,Negative,No
+CS-10037,I returned my order #12290 two weeks ago and still haven't received my refund.,Refund Request,Negative,No
+CS-10038,"Please process my refund of ₹749, the item didn't match the description.",Refund Request,Negative,No
+CS-10039,"Please process my refund of ₹3200, the item didn't match the description.",Refund Request,Negative,No
+CS-10040,"Please process my refund of ₹499, the item didn't match the description.",Refund Request,Negative,No
+CS-10041,I cancelled order #10389 but the refund hasn't reflected in my bank account yet.,Refund Request,Negative,No
+CS-10042,I cancelled order #11072 but the refund hasn't reflected in my bank account yet.,Refund Request,Negative,No
+CS-10043,I cancelled order #11456 but the refund hasn't reflected in my bank account yet.,Refund Request,Negative,No
+CS-10044,Refund for ₹349 was approved but I haven't received it after 10 business days.,Refund Request,Negative,No
+CS-10045,Refund for ₹1899 was approved but I haven't received it after 10 business days.,Refund Request,Negative,No
+CS-10046,Refund for ₹749 was approved but I haven't received it after 10 business days.,Refund Request,Negative,No
+CS-10047,I want to cancel my subscription but the app doesn't show any option to do it.,Subscription Issue,Negative,No
+CS-10048,I was auto-renewed for another year even after I cancelled last month.,Subscription Issue,Negative,No
+CS-10049,My subscription benefits stopped working even though I'm still being charged.,Subscription Issue,Negative,No
+CS-10050,Can I downgrade my subscription plan without losing my saved data?,Subscription Issue,Negative,No
+CS-10051,The app crashes every time I try to open the payments section.,Technical Problem,Negative,No
+CS-10052,"I can't upload my documents, the upload button just doesn't respond.",Technical Problem,Negative,No
+CS-10053,The website is showing a blank page when I try to check my order history.,Technical Problem,Negative,No
+CS-10054,Push notifications stopped working after the last app update.,Technical Problem,Negative,No
+CS-10055,"I have contacted support three times and nobody has solved my problem, this is extremely frustrating.",Service Quality,Negative,No
+CS-10056,The support agent was rude and disconnected the call before resolving my issue.,Service Quality,Negative,No
+CS-10057,I've been on hold for over 40 minutes just to ask a simple question.,Service Quality,Negative,No
+CS-10058,Nobody followed up on my complaint from last week as promised.,Service Quality,Negative,No
+CS-10059,My monthly bill shows an extra charge of ₹2500 that I don't recognize.,Billing Problem,Negative,No
+CS-10060,My monthly bill shows an extra charge of ₹349 that I don't recognize.,Billing Problem,Negative,No
+CS-10061,My monthly bill shows an extra charge of ₹1899 that I don't recognize.,Billing Problem,Negative,No
+CS-10062,I was billed for a plan I never signed up for.,Billing Problem,Negative,No
+CS-10063,The invoice for order #13521 shows the wrong tax amount.,Billing Problem,Negative,No
+CS-10064,The invoice for order #10245 shows the wrong tax amount.,Billing Problem,Negative,No
+CS-10065,The invoice for order #10389 shows the wrong tax amount.,Billing Problem,Negative,No
+CS-10066,Why was I charged ₹1250 twice in the same billing cycle?,Billing Problem,Negative,No
+CS-10067,Why was I charged ₹2500 twice in the same billing cycle?,Billing Problem,Negative,No
+CS-10068,Why was I charged ₹349 twice in the same billing cycle?,Billing Problem,Negative,No
+CS-10069,Can you tell me your business hours for customer support?,Other,Neutral,No
+CS-10070,"I just wanted to say thank you, your team resolved my issue quickly.",Other,Neutral,No
+CS-10071,Do you have a physical store in Kochi where I can visit?,Other,Neutral,No
+CS-10072,How do I update my registered email address on my profile?,Other,Neutral,No
+CS-10073,"I noticed a login attempt from a device I don't recognize, please help me secure my account.",Security Concern,Negative,No
+CS-10074,"Someone tried to reset my password without my permission, can you check my account activity?",Security Concern,Negative,No
+CS-10075,"I think my card details may have been compromised, can you help me block my card?",Security Concern,Negative,No
+CS-10076,Can you tell me how to enable two-factor authentication on my account?,Security Concern,Negative,No
+CS-10077,"Your order will be delivered today between 2pm and 5pm, please ensure someone is available.",Other,Neutral,No
+CS-10078,"Reminder: your subscription renews tomorrow, let us know if you'd like to make changes.",Other,Neutral,No
+CS-10079,Your refund of ₹1250 has been processed and will reflect in your account within 3-5 business days.,Other,Neutral,No
+CS-10080,Your appointment with our service center is confirmed for tomorrow at 10 AM.,Other,Neutral,No
+CS-20001,"URGENT! Your account has been compromised. Click this link immediately to secure your account and enter your username, password and OTP. http://paypa1-security.example/login",Security Concern,Negative,Yes
+CS-20002,"Dear customer, your PAN card verification is pending. Update immediately at http://incometax-refund.example or your account will be permanently deleted",Security Concern,Negative,Yes
+CS-20003,Congratulations you have been selected! Claim your prize now at http://bit.ly/xyz123,Security Concern,Negative,Yes
+CS-20004,Your SBI account will be suspended within 24 hours. Verify your account at http://sbi-secure-verify.example/login and confirm your identity,Security Concern,Negative,Yes
+CS-20005,"Dear user, unusual login detected on your Amazon account. Confirm your details at http://amaz0n-security.example immediately to avoid suspension",Security Concern,Negative,Yes
+CS-20006,This is the official IT support department. We need you to share your OTP to complete a mandatory security patch on your account.,Security Concern,Negative,Yes
+CS-20007,Your Netflix payment failed. Update your payment information at http://netfl1x-billing.example within 24 hours to avoid account closure.,Security Concern,Negative,Yes
+CS-20008,RBI Alert: Your bank account shows suspicious activity. Contact our security team at support@sbi-verify.example immediately.,Security Concern,Negative,Yes
+CS-20009,FINAL WARNING: Failure to comply will result in legal action. Verify your identity now at http://192.168.44.12/verify,Security Concern,Negative,Yes
+CS-20010,Your Flipkart order refund of ₹5000 is pending. Enter your card details and CVV at http://flipkart-refund.example to claim it.,Security Concern,Negative,Yes
+CS-20011,"Dear customer, your electricity bill is overdue. Pay immediately at http://bit.ly/billpay99 to avoid disconnection within 24 hours.",Security Concern,Negative,Yes
+CS-20012,We are the cyber cell department investigating fraud on your account. Share the OTP sent to your phone to verify your identity.,Security Concern,Negative,Yes
+CS-20013,Your WhatsApp account will be deactivated. Verify by clicking http://whatsapp-verify.example and entering your registration code.,Security Concern,Negative,Yes
+CS-20014,"Dear user, your Google account storage is full and unauthorized access was detected. Secure it now at http://g00gle-security.example",Security Concern,Negative,Yes
+CS-20015,Your Paytm KYC has expired. Update immediately at http://paytm-kyc-update.example or your wallet will be permanently blocked.,Security Concern,Negative,Yes
+CS-20016,"Congratulations! Your number has won ₹25,00,000 in the online lottery. Claim your prize by sharing your bank details and OTP.",Security Concern,Negative,Yes
+CS-20017,"Dear customer, your HDFC debit card is expiring. Renew instantly at http://hdfcbank-renew.example and confirm your PIN.",Security Concern,Negative,Yes
+CS-20018,Security Alert: Someone tried to access your account from Nigeria. Confirm it wasn't you at http://icici-secure.example immediately.,Security Concern,Negative,Yes
+CS-20019,Your Uber account has unusual activity. Verify your login credentials at http://uber-account-check.example within 24 hours.,Security Concern,Negative,Yes
+CS-20020,URGENT: Income tax department final notice. Avoid penalty by verifying your PAN and Aadhaar at http://incometax.gov.in-verify.example,Security Concern,Negative,Yes
+CS-20021,Your account will be permanently deleted due to policy violation unless you confirm your password within 24 hours at http://accnt-verify.example,Security Concern,Negative,Yes
+CS-20022,"Dear customer, your Ola ride payment failed. Update your card details at http://bit.ly/olapay to avoid account suspension.",Security Concern,Negative,Yes
+CS-20023,This is your bank's official security department. We detected fraud and need your net banking password to reverse the transaction.,Security Concern,Negative,Yes
+CS-20024,"Your Zomato wallet balance is under review due to suspicious activity, confirm your account at http://zomat0-secure.example",Security Concern,Negative,Yes
+CS-20025,"Dear user, your UIDAI Aadhaar linking is incomplete. Complete verification immediately at http://uidai-link.example or face penalty.",Security Concern,Negative,Yes

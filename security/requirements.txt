@@ -1,0 +1,9 @@
+# security_analysis_engine.py, security_analysis.py, run_batch.py, and
+# generate_dataset.py are pure Python stdlib — no dependencies needed to use
+# them as a library or from the command line.
+#
+# security_api.py additionally needs a tiny web framework to expose the
+# engine as a standalone demo API:
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0,<3.0
